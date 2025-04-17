@@ -10,7 +10,9 @@ This repository contains daily weather observations recorded throughout 2023 at 
 I compiled this dataset to analyze regional climate patterns, compare extreme weather events, and practice data cleaning/visualization techniques. The raw data comes from official meteorological sources but has been merged and standardized for easier analysis.
 
 What's in the Data?
+
 Key Features:
+
 ✅ Temporal Coverage: Full year of 2023 (365 days per station)
 ✅ Core Measurements:
 
