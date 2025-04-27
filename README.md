@@ -8,19 +8,33 @@ The dataset is suitable for weather analysis, recommendation systems, and machin
 Dataset Features
 
 Column Name	Description
+
 City Number	Unique numeric identifier for each city.
+
 City Name	Name of the city (e.g., Lahore, Karachi, Skardu).
+
 Latitude	Latitude coordinate of the city.
+
 Longitude	Longitude coordinate of the city.
+
 Date	Date in YYYY-MM-DD format.
+
 Temperature (°C)	Daily temperature in degrees Celsius.
+
 Humidity (%)	Humidity percentage.
+
 Precipitation (%)	Precipitation percentage (rainfall/snowfall chance).
+
 Wind Speed (km/h)	Wind speed in kilometers per hour.
+
 Clothing Recommendation	Suggested clothing based on the weather.
+
 Activity Recommendation	Suggested activities suitable for the day's weather.
+
 Season	Season during the record (Winter, Spring, Summer, Autumn).
+
 Usage Ideas
+
 Weather-based recommendation systems
 
 Seasonal weather trend analysis
